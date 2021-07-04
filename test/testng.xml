@@ -5,7 +5,7 @@
      <classes>
          <class name="Scripts.CreateOrderWCC"/> 
          <class name="Scripts.CreateOrderWCC2"/> 
-         <class name="Scripts.CreateOrderWCC3"/>   
+      
     </classes>
   </test> <!---->
 </suite> <!-- Suite --> 

@@ -3,6 +3,6 @@
     <suite-files>
       <suite-file path="testng.xml"/> 
    		<suite-file path="testngSTST.xml"/> 
-     	<suite-file path="testngAppeasement.xml"/>
+     
     </suite-files>
 </suite>
