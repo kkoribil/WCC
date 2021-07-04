@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="suite">
+<test name="Regression 1">
+    <classes>
+    	<class name="Scripts.HoldManagement"/>
+        <class name="Scripts.BalanceInquiry"/>
+        <class name="Scripts.OrderAmendments1"/>
+        <class name="Scripts.DCCancellation"/>
+        <!-- <class name="Scripts.BlindReturn"/> -->
+        <class name="Scripts.RewardEarning"/>
+        <!-- <class name="Scripts.AlertManagement"/> -->
+    </classes>
+  </test> <!---->
+</suite> <!-- Suite --> 
